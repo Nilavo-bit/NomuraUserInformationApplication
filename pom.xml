@@ -89,7 +89,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>Nomura-UserInfo-Jenkins</finalName>
+		<finalName>nomura-userinfo-jenkins</finalName>
 	</build>
 
 </project>
